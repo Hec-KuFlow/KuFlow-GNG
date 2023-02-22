@@ -71,7 +71,7 @@ Finally, you get something like:
 
 <div class="text--center">
 
-![](/img/TUTXX-03-Process.png)
+![](/img/TUT13-03-Process.png)
 
 </div>
 
@@ -112,7 +112,9 @@ You'll get something like:
 
 <div class="text--center">
 
-![](/img/TUTXX-04-Task.png)
+![](/img/TUT13-04-Task_1.png)
+
+![](/img/TUT13-04-Task_2.png)
 
 </div>
 
@@ -122,9 +124,9 @@ By clicking on the `Publish` button you’ll receive a confirmation request mess
 
 <div class="text--center">
 
-![](/img/TUTXX-05-publish_1.png)
+![](/img/TUT13-05-publish_1.png)
 
-![](/img/TUTXX-05-publish_2.png)
+![](/img/TUT13-05-publish_2.png)
 
 </div>
 
@@ -132,9 +134,9 @@ Now, you can download a sample Workflow Implementation from the Process Definiti
 
 <div class="text--center">
 
-![](/img/TUTXX-07-Template_1.png)
+![](/img/TUT13-07-Template_1.png)
 
-![](/img/TUTXX-07-Template_2.png)
+![](/img/TUT13-07-Template_2.png)
 
 </div>
 
@@ -304,7 +306,7 @@ We can test all that we have done by running the worker (*like typing **npm run 
 
 <div class="text--center">
 
-![](/img/TUTXX-08-Test_1.png)
+![](/img/TUT13-07-Test_1.png)
 
 </div>
 
@@ -312,7 +314,9 @@ And initiating the process in KuFlow’s UI.
 
 <div class="text--center">
 
-![](/img/TUTXX-08-Test_2.png)
+![](/img/TUT13-07-Test_2.png)
+
+![](/img/TUT13-07-Test_3.png)
 
 </div>
 
@@ -320,7 +324,11 @@ Fill out the form with the information requested and complete the task.
 
 <div class="text--center">
 
-![](/img/TUTXX-08-Test_3.png)
+![](/img/TUT13-07-Test_3.png)
+
+![](/img/TUT13-07-Test_4.png)
+
+![](/img/TUT13-07-Test_5.png)
 
 </div>
 
