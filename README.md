@@ -124,9 +124,9 @@ By clicking on the `Publish` button you’ll receive a confirmation request mess
 
 <div class="text--center">
 
-![](/img/TUT13-05-publish_1.png)
+![](/img/TUT13-05-Publish_1.png)
 
-![](/img/TUT13-05-publish_2.png)
+![](/img/TUT13-05-Publish_2.png)
 
 </div>
 
@@ -134,9 +134,9 @@ Now, you can download a sample Workflow Implementation from the Process Definiti
 
 <div class="text--center">
 
-![](/img/TUT13-07-Template_1.png)
+![](/img/TUT13-06-Template_1.png)
 
-![](/img/TUT13-07-Template_2.png)
+![](/img/TUT13-06-Template_2.png)
 
 </div>
 
@@ -320,11 +320,9 @@ And initiating the process in KuFlow’s UI.
 
 </div>
 
-Fill out the form with the information requested and complete the task.
+Fill in the field with your answer and complete the task. If the answer is wrong, you will be informed and a new answer will be requested, but if it is correct, you will be informed and the process will end.
 
 <div class="text--center">
-
-![](/img/TUT13-07-Test_3.png)
 
 ![](/img/TUT13-07-Test_4.png)
 
